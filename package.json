@@ -1,6 +1,6 @@
 {
   "name": "yesno-dialog",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Javascript yes no dialog",
   "main": "dist/bundle.js",
   "scripts": {
