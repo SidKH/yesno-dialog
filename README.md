@@ -48,4 +48,4 @@ showCatButton.addEventListener('click', async () => {
 - [Customize text](https://codesandbox.io/s/yesno-dialog-example-custom-9lzcd)
 
 ## License
-[MIT](https://github.com/SidKH/yesno-dialog/blob/master/LICENSE) © Alex Sidorenko
+[MIT](https://github.com/SidKH/yesno-dialog/blob/master/LICENSE) © SidKH
