@@ -19,7 +19,7 @@ showCatButton.addEventListener('click', async () => {
   const yes = await yesno({
     labelYes: "Yep",
     labelNo: "Nope",
-    bodyText: "Are you sure you want to see the cat?"
+    bodyText: "Sure?"
   })
   if (yes) // show the cat
 })
