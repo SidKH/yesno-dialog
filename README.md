@@ -1,5 +1,6 @@
 # Javascript yes no dialog
-![JS yes no dialog build status](https://img.shields.io/github/workflow/status/SidKH/yesno-dialog/Node.js%20Package?style=flat-square)
+![Build status](https://img.shields.io/github/workflow/status/SidKH/yesno-dialog/Node.js%20Package?style=flat-square)
+![License](https://img.shields.io/npm/l/yesno-dialog?style=flat-square)
 
 Tiny customizable vanilla js confirm dialog
 
