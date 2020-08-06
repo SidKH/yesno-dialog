@@ -1,4 +1,6 @@
 # Javascript yes no dialog
+![JS yes no dialog build status](https://img.shields.io/github/workflow/status/SidKH/yesno-dialog/Node.js%20Package?style=flat-square)
+
 Tiny customizable vanilla js confirm dialog
 
 ## Install
