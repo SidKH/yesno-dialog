@@ -46,3 +46,6 @@ showCatButton.addEventListener('click', async () => {
 - [Initial](https://codesandbox.io/s/yesno-dialog-example-simple-it5om)
 - [Change theme](https://codesandbox.io/s/yesno-dialog-example-theme-gskh0)
 - [Customize text](https://codesandbox.io/s/yesno-dialog-example-custom-9lzcd)
+
+## License
+MIT © [SidKH](https://github.com/SidKH)

@@ -10,7 +10,7 @@
     "start:example": "cd example && webpack-dev-server"
   },
   "author": "Alex Sidorenko",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/SidKH/yesno-dialog"
