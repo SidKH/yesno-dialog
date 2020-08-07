@@ -1,4 +1,4 @@
-import yesno from './index'
+import yesno from '../'
 
 beforeEach(() => {
   document.body.innerHTML = ''
