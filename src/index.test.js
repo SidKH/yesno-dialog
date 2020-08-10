@@ -7,7 +7,6 @@ beforeEach(() => {
 test('shows dialog', () => {
   yesno()
   expect(document.querySelector('.jsyesnodialog__dialog')).not.toBeNull()
-  
 })
 
 test('dialog has 2 buttons', () => {
