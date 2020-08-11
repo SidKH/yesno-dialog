@@ -27,6 +27,11 @@
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     }
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged --pattern 'src/**/*.js'"
+    }
+  },
   "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.10.5",
@@ -35,9 +40,12 @@
     "babel-loader": "^8.1.0",
     "css-loader": "^4.2.0",
     "html-webpack-plugin": "^4.3.0",
+    "husky": "^4.2.5",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^26.2.2",
     "path": "^0.12.7",
+    "prettier": "2.0.5",
+    "pretty-quick": "^2.0.1",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.0",
     "webpack-cli": "^3.3.12",
